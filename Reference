@@ -1,0 +1,14 @@
+class reference
+	public static void main(String[] args)
+		{
+			 int a,b;
+			 a=5;
+			 b=7;
+			 reference (a,b);
+			 Rectangle a=new rectangle ();
+			 a.length =5
+			 modify(a);
+			 system.out.print(a.length);
+			 public void modify(Rectangle b){
+			 	b.length=7;
+	}
